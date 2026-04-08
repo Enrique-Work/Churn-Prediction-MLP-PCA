@@ -1,5 +1,5 @@
 # 📊 Predicción de Churn en Telecomunicaciones (MLP + PCA)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Enrique-Work/Churn-Prediction-MLP-PCA/blob/main/ModelosRN.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Enrique-Work/Churn-Prediction-MLP-PCA/blob/main/notebooks/ModelosRN.ipynb)
 
 Este proyecto implementa una **Red Neuronal Multicapa (MLP)** construida desde cero utilizando únicamente **NumPy** para predecir la probabilidad de fuga de clientes (*Churn*). El enfoque principal es entender la matemática detrás del aprendizaje profundo sin librerías externas de ML.
 
